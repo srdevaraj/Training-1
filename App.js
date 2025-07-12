@@ -21,12 +21,13 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   v2:{
-    flexDirection:'row',
     backgroundColor:'blue',
-    padding: 20,
     width: '50%',
     height: 200,
+    
+    flexDirection:'row',
     alignItems: 'center',
-    justifyContent:'center',
+    justifyContent: 'center',
+
   }
 });
